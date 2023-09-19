@@ -1,6 +1,5 @@
 LAUNCH TESTS
 
-
 ```
 docker-compose up -d --build
 docker exec -it app bash
